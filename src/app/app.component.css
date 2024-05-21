@@ -1,0 +1,48 @@
+.add-user {
+    position: relative;
+    margin: 20px;
+}
+
+.add-user button {
+    margin: auto;
+    align-items: center;
+    display: flex;
+}
+
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+    align-items: center;
+    display: grid;
+    margin: auto;
+    grid-template-columns: 100%;
+    border: 2px solid gray;
+  }
+
+  
+  .example-full-width {
+    width: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
+.user-form {
+    position: relative;
+    
+}
+
+.add-contact {
+    margin: 20px;
+    padding: 10px;
+    border: 3px solid lightblue;
+    border-radius: 30px;
+    display: grid;
+    grid-template-columns: auto;
+}
+
+.contact-form{
+    width: 100%;
+    display: grid;
+
+}
